@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Khedmti</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter">دخول</string>
+    <string name="logopic">logo</string>
+    <string name="brows">تصفح</string>
+    <string name="login">تسجيل</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_retrieve_password">RetrievePassword</string>
+    <string name="enteremail">أدخل بريدك الإلكتروني</string>
+    <string name="retrieve">استعادة</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="forgetpass">نسيت كلمة المرور ؟</string>
+    <string name="log">دخول</string>
+</resources>
